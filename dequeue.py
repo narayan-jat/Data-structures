@@ -1,6 +1,6 @@
 '''
-This module is specially designed to contain delete_first data structure
-and supports all operations which are supported by a Queue. This data 
+This module is specifically designed to contain Dequeue data structure
+and supports all operations which are supported by a Dequeue. This data 
 structure has been implemented based on the array.
 
 Author: Narayan Jat
