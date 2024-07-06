@@ -1,2 +1,2 @@
 # Data structures
-This repository contains files related to data structure and algorithm course.
+This repository contains implementations of nearly all essential data structures, each accompanied by comprehensive docstrings. The repository serves as a valuable resource for understanding and utilizing various data structures, including arrays, linked lists, stacks, queues, trees, graphs, hash tables, and more. Each implementation is meticulously documented to explain the functionality, usage, and underlying algorithms. This collection is ideal for students, developers, and anyone looking to deepen their understanding of data structures and their practical applications in programming. They can use these for their projects.
